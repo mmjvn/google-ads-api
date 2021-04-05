@@ -17,7 +17,7 @@
   "author": "Opteo",
   "license": "MIT",
   "dependencies": {
-    "google-ads-node": "^4.0.2",
+    "google-ads-node": "git://github.com/mmjvn/google-ads-node.git#mmj-fixbug",
     "google-auth-library": "^6.1.3",
     "google-gax": "^2.10.2",
     "long": "^4.0.0"
